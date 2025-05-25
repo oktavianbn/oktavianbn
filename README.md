@@ -49,12 +49,12 @@ I am a high school student majoring in Software Engineering (RPL) at SMK Negeri 
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=fff&style=flat)
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=fff&style=flat)
 
-
-
 ---
 
 ### 📫 Get in Touch
 
 - [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=fff&style=flat)](mailto:oktavianbagasnugroho@mail.com)
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat)](https://www.instagram.com/oktavianbn)
+- [![Facebook](https://img.shields.io/badge/Facebook-3D82ED?logo=facebook&logoColor=white&style=flat)](https://www.facebook.com/oktavian.bagasnugroho)
 - [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff&style=flat)](https://github.com/oktavianbn)
 
